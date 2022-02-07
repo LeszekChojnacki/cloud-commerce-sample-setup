@@ -53,7 +53,7 @@
     <extension name='acceleratorfacades' />
     <extension name='acceleratorocc' />
     <extension name='acceleratorservices' />
-    <extension name='acceleratorstorefrontcommons' />-->
+    <extension name='acceleratorstorefrontcommons' />--> 
     <extension name='acceleratorocc' />
     <extension name='addonsupport' />
     <extension name='couponbackoffice' />
@@ -177,7 +177,7 @@
     <extension name='cmswebservices' />
     <extension name='webservicescommons' />
     <extension name='ywebservices' />
-
+    <extension name='yb2bacceleratorstorefront' />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
