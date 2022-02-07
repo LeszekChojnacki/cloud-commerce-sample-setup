@@ -96,16 +96,6 @@
             "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-        {
-            "addon": "promotionenginesamplesaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "promotionenginesamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
 		{
             "addon": "textfieldconfiguratortemplateaddon",
             "storefront": "yb2bacceleratorstorefront",
