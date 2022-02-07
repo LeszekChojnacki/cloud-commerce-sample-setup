@@ -181,6 +181,7 @@
     <extension name='yb2bacceleratorstorefront' />
     <extension name='ycommercewebservices' />
     <extension name='acceleratorwebservicesaddon' />
+    <extension name='b2boccaddon' />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
