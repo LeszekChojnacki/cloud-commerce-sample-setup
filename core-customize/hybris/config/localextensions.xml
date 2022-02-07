@@ -184,6 +184,24 @@
     <extension name='b2boccaddon' />
     <extension name='savedorderformsoccaddon' />
     <extension name='consignmenttrackingoccaddon' />
+    <extension name='cmsoccaddon' />
+    <extension name='b2bacceleratoraddon' />
+    <extension name='commerceorgaddon' />
+    <extension name='commerceorgsamplesaddon' />
+    <extension name='b2bpunchoutaddon' />
+    <extension name='secureportaladdon' />
+    <extension name='captchaaddon' />
+    <extension name='customerticketingaddon' />
+    <extension name='textfieldconfiguratortemplateaddon' />
+    <extension name='orderselfserviceaddon' />
+    <extension name='smarteditaddon' />
+    <extension name='adaptivesearchsamplesaddon' />
+    <extension name='consignmenttrackingaddon' />
+    <extension name='configurablebundleaddon' />
+    <extension name='pcmbackofficesamplesaddon' />
+    <extension name='assistedservicepromotionaddon' />
+    <extension name='multicountrysampledataaddon' />
+    <extension name='personalizationaddon' />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
