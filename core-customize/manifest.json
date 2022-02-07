@@ -132,11 +132,6 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "acceleratorwebservicesaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        },
-        {
             "addon": "b2boccaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
