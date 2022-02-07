@@ -132,11 +132,6 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "consignmenttrackingoccaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        },
-        {
             "addon": "cmsoccaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
