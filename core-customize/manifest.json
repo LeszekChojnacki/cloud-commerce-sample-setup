@@ -132,11 +132,6 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "savedorderformsoccaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        },
-        {
             "addon": "consignmenttrackingoccaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
