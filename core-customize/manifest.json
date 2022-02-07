@@ -61,7 +61,7 @@
             "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-		        {
+		{
             "addon": "commerceorgsamplesaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
@@ -81,7 +81,7 @@
             "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-	{
+	    {
             "addon": "assistedservicestorefront",
             "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
@@ -128,11 +128,6 @@
         },
         {
             "addon": "pcmbackofficesamplesaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "personalizationsearchsamplesaddon",
             "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
