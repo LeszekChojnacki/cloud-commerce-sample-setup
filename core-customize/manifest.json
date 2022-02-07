@@ -132,11 +132,6 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "b2boccaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        },
-        {
             "addon": "savedorderformsoccaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
