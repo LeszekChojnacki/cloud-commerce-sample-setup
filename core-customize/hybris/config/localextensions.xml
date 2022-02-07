@@ -177,7 +177,9 @@
     <extension name='cmswebservices' />
     <extension name='webservicescommons' />
     <extension name='ywebservices' />
+
     <extension name='yb2bacceleratorstorefront' />
+    <extension name='ycommercewebservices' />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
