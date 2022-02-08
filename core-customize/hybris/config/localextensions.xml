@@ -191,18 +191,16 @@
     <extension name='b2bpunchoutaddon' />
     <extension name='secureportaladdon' />
     <extension name='captchaaddon' />
-    <extension name='customerticketingaddon' />
-    <extension name='textfieldconfiguratortemplateaddon' />
-    <extension name='orderselfserviceaddon' />
-    <extension name='smarteditaddon' />
-    <extension name='adaptivesearchsamplesaddon' />
     <extension name='consignmenttrackingaddon' />
-    <extension name='configurablebundleaddon' />
-    <extension name='pcmbackofficesamplesaddon' />
-    <extension name='assistedservicepromotionaddon' />
-    <extension name='multicountrysampledataaddon' />
-    <extension name='personalizationaddon' />
     <extension name='eventtrackingwsaddon' />
+    <extension name='merchandisingaddon' />
+    <extension name='merchandisingstorefrontsampledataaddon' />
+    <extension name='profiletagaddon' />
+    <extension name='xyformssamples' />
+    <extension name='xyformsstorefrontcommons' />
+    <extension name='ysapproductconfigaddon' />
+    <extension name='accountsummaryaddon' />
+    <extension name='sapproductconfigb2baddon' />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
