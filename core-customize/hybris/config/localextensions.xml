@@ -202,7 +202,6 @@
     <extension name='assistedservicepromotionaddon' />
     <extension name='multicountrysampledataaddon' />
     <extension name='personalizationaddon' />
-    <extension name='ysapproductconfigb2baddon' />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
