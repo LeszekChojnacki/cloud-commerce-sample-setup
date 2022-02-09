@@ -31,8 +31,8 @@
     <extension name='platformbackoffice' />
     <extension name='ybackoffice' />
     <!--<extension name='yacceleratorbackoffice' />-->
-    <extension name='yacceleratorcore' />
-    <extension name='yacceleratorstorefront' />
+    <!--<extension name='yacceleratorcore' />-->
+    <!--<extension name='yacceleratorstorefront' />-->
     <extension name='basecommerce' />
     <extension name='basecommercebackoffice' />
     <extension name='payment' />
@@ -192,7 +192,7 @@
     <extension name='secureportaladdon' />
     <extension name='captchaaddon' />
     <extension name='consignmenttrackingaddon' />
-    <extension name='eventtrackingwsaddon' />
+    <!--<extension name='eventtrackingwsaddon' />-->
     <extension name='merchandisingaddon' />
     <extension name='merchandisingstorefrontsampledataaddon' />
     <extension name='profiletagaddon' />
