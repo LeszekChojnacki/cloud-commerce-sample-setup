@@ -201,6 +201,8 @@
     <extension name='ysapproductconfigaddon' />
     <extension name='accountsummaryaddon' />
     <extension name='sapproductconfigb2baddon' />
+    <extension name='powertoolsstore' />
+    <extension name='b2bcommercebackoffice' />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
