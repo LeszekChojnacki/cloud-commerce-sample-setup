@@ -179,7 +179,7 @@
     <extension name='ywebservices' />
 
     <extension name='yb2bacceleratorstorefront' />
-    <extension name='ycommercewebservices' />
+    <!--<extension name='ycommercewebservices' />-->
     <extension name='acceleratorwebservicesaddon' />
     <extension name='b2boccaddon' />
     <extension name='savedorderformsoccaddon' />
