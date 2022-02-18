@@ -203,6 +203,7 @@
     <extension name='sapproductconfigb2baddon' />
     <extension name='powertoolsstore' />
     <extension name='b2bcommercebackoffice' />
+    <extension name="oauth2" />
 <!-- Sample Extensions -->
     <extension name='spartacussampledata' />
 <!--<extension name='kiwi' />
