@@ -18,7 +18,7 @@ import { environment } from 'src/environments/environment';
     context: {
       // TODO: adjust parameters and site
       urlParameters: ['baseSite', 'language', 'currency'],
-      baseSite: ['electronics-spa'],
+      baseSite: ['electronics-spa', 'powertools-spa'],
       currency: ['USD'],
       language: ['en'],
     },
