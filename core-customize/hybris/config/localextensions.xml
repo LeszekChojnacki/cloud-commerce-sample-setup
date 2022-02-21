@@ -19,7 +19,7 @@
     <extension name='assistedservicewebservices' />
     <extension name='assistedserviceyprofileaddon' />
     <extension name='assistedserviceyprofilefacades' />
-    <extension name='electronicsstore' />
+    <!--<extension name='electronicsstore' />-->
     <extension name='multicountrysampledataaddon' />
     <extension name='pcmbackofficesamplesaddon' />
     <extension name='classificationgroupsservices' />
