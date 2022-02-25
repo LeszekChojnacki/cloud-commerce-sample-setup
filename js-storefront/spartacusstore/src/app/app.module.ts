@@ -9,7 +9,6 @@ import { SpartacusModule } from './spartacus/spartacus.module';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { CostCenterModule } from '@spartacus/core';
-import { StorefrontModule, CmsLibModule } from '@spartacus/storefront';
 
 @NgModule({
   declarations: [
@@ -29,9 +28,7 @@ import { StorefrontModule, CmsLibModule } from '@spartacus/storefront';
       registrationStrategy: 'registerWhenStable:30000'
     }),
     BrowserTransferStateModule,
-    CostCenterModule.forRoot(),
-    StorefrontModule,
-    CmsLibModule
+    CostCenterModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
