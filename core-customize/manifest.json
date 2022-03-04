@@ -48,10 +48,6 @@
         {
             "key": "lang.packs",
             "value": "de,en"
-        },
-        {
-            "key": "occ.rewrite.overlapping.paths.enabled",
-            "value": "false"
         }
     ],
     "storefrontAddons": [
@@ -180,6 +176,10 @@
                 {
                     "key": "storefrontContextRoot",
                     "value": "/yacceleratorstorefront"
+                },
+                {
+                    "key": "occ.rewrite.overlapping.paths.enabled",
+                    "value": "false"
                 }
             ],
             "webapps": [
