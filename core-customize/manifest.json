@@ -48,6 +48,10 @@
         {
             "key": "lang.packs",
             "value": "de,en"
+        },
+        {
+            "key": "occ.rewrite.overlapping.paths.enabled",
+            "value": "false"
         }
     ],
     "storefrontAddons": [

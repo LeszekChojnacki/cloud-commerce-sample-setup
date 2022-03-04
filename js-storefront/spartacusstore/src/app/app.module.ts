@@ -8,7 +8,6 @@ import { AppComponent } from './app.component';
 import { SpartacusModule } from './spartacus/spartacus.module';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
-import { CostCenterModule } from '@spartacus/core';
 
 @NgModule({
   declarations: [
@@ -27,8 +26,7 @@ import { CostCenterModule } from '@spartacus/core';
       // or after 30 seconds (whichever comes first).
       registrationStrategy: 'registerWhenStable:30000'
     }),
-    BrowserTransferStateModule,
-    CostCenterModule.forRoot()
+    BrowserTransferStateModule
   ],
   providers: [],
   bootstrap: [AppComponent]
